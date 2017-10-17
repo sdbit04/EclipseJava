@@ -14,7 +14,7 @@ public static void writeFile1() throws IOException {
 		bw.write("something");
 		bw.newLine();
 		bw.flush();
-		System.out.println("HI");
+		System.out.println("HI2");
 	}
 	
 	for (int i = 0; i < 10; i++) {
